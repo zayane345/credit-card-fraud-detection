@@ -89,7 +89,7 @@ credit-card-fraud-detection/
 ## 🚀 Quick Start
 ```bash
 # Clone
-git clone https://github.com/yourusername/credit-card-fraud-detection
+git clone https://github.com/Amanyadav-07/credit-card-fraud-detection
 
 # Install
 pip install pandas numpy scikit-learn xgboost imbalanced-learn \
